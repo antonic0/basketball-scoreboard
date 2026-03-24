@@ -9,7 +9,7 @@ body {
 
 @font-face {
     font-family: Cursed-Timer;
-    src: url(font/cursed-timer.ttf);
+    src: url("font/cursed-timer.ttf");
 }
 
 .container {
